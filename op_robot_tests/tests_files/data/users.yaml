@@ -1239,7 +1239,7 @@ users:
         homepage: "https://sale.agrex.gov.ua/test/Registration.aspx"
         default_page: "https://sale.agrex.gov.ua/test/AuctionList.aspx"
         login:    ae_owner@a.ua
-        browser:  firefox
+        browser:  chrome
         position: [0, 0]
         size:     [1366, 800]
     agrex_Provider:
