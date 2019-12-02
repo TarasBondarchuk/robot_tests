@@ -436,7 +436,7 @@ users:
         size:     [1366, 800]
     Newtend_Owner:
         broker:   Newtend
-        homepage: "https://dev23.newtend.com/opc/provider/home/"
+        homepage: "https://dev23.newtend.com/frame/login/"
         login:    tarasbondarchuk1985@gmail.com
         password: testProZorro2019
         browser:  chrome
@@ -444,7 +444,7 @@ users:
         size:     [1200, 1200]
     Newtend_Provider:
         broker:   Newtend
-        homepage: "https://dev23.newtend.com/opc/provider/home/"
+        homepage: "https://dev23.newtend.com/frame/login/"
         login:    tarasbondarchuk1985@gmail.com
         password: testProZorro2019
         browser:  chrome
@@ -452,7 +452,7 @@ users:
         size:     [1200, 1200]
     Newtend_Provider1:
         broker:   Newtend
-        homepage: "https://dev23.newtend.com/opc/provider/home/"
+        homepage: "https://dev23.newtend.com/frame/login/"
         login:    tarasbondarchuk1985@gmail.com
         password: testProZorro2019
         browser:  chrome
