@@ -438,7 +438,7 @@ users:
         broker:   Newtend
         homepage: "https://dev23.newtend.com/opc/provider/home/"
         login:    newttest78+501@gmail.com
-        password: 123123
+        password: testProZorro2019
         browser:  chrome
         position: [0, 0]
         size:     [1200, 1200]
@@ -446,7 +446,7 @@ users:
         broker:   Newtend
         homepage: "https://dev23.newtend.com/opc/provider/home/"
         login:    newttest78+101@gmail.com
-        password: 123123
+        password: testProZorro2019
         browser:  chrome
         position: [700, 0]
         size:     [1200, 1200]
@@ -454,7 +454,7 @@ users:
         broker:   Newtend
         homepage: "https://dev23.newtend.com/opc/provider/home/"
         login:    newttest78+102@gmail.com
-        password: 123123
+        password: testProZorro2019
         browser:  chrome
         position: [700, 0]
         size:     [1200, 1200]
