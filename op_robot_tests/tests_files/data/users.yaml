@@ -437,7 +437,7 @@ users:
     Newtend_Owner:
         broker:   Newtend
         homepage: "https://dev23.newtend.com/opc/provider/home/"
-        login:    newttest78+501@gmail.com
+        login:    tarasbondarchuk1985@gmail.com
         password: testProZorro2019
         browser:  chrome
         position: [0, 0]
@@ -445,7 +445,7 @@ users:
     Newtend_Provider:
         broker:   Newtend
         homepage: "https://dev23.newtend.com/opc/provider/home/"
-        login:    newttest78+101@gmail.com
+        login:    tarasbondarchuk1985@gmail.com
         password: testProZorro2019
         browser:  chrome
         position: [700, 0]
@@ -453,7 +453,7 @@ users:
     Newtend_Provider1:
         broker:   Newtend
         homepage: "https://dev23.newtend.com/opc/provider/home/"
-        login:    newttest78+102@gmail.com
+        login:    tarasbondarchuk1985@gmail.com
         password: testProZorro2019
         browser:  chrome
         position: [700, 0]
